@@ -1,6 +1,4 @@
-dzik_cba_pl 
-by cravsky
+cravsky.eu
 
-30.01.2018
+31.01.2018
 Initial commit on Github
-

@@ -1,4 +1,8 @@
 cravsky.eu
 
+
 31.01.2018
-Initial commit on Github
+ Initial commit on Github
+
+06.04.2018 Rearranged folder structure, css rules in a separate stylesheet, added Krajek.PL project,
+basic SEO tags

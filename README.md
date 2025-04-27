@@ -8,8 +8,6 @@ I am a Frontend Developer who loves JavaScript
 
 * 🌍  I'm based in Wrocław
 * ✉️  You can contact me at [cravsky@gmail.com](mailto:cravsky@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Legacy Projects
 
 ### Skills
 
